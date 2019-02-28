@@ -1,0 +1,8 @@
+
+dpython:S107‚"LMethod "__init__" has 15 parameters, which is greater than the 7 authorized.(ÁÔ½ò
+dpython:S107‚"LMethod "__init__" has 12 parameters, which is greater than the 7 authorized.(î‹ÇÓ
+Lpython:S1313¡".Make this IP "127.0.0.1" address configurable.(©éÖÿÿÿÿÿ
+rpython:S3776±"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ºÈ³«ıÿÿÿÿ
+rpython:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÀÅëÅûÿÿÿÿ
+Mpython:S1066–"/Merge this if statement with the enclosing one.(ıó·†ıÿÿÿÿ
+epython:S116Ÿ"MRename this field "msgId" to match the regular expression ^[_a-z][_a-z0-9]*$.(¨Îú
