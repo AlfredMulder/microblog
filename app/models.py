@@ -192,7 +192,7 @@ class User(UserMixin, PaginatedAPIMixin, db.Model):
         data = {
             'id': self.id,
             'username': self.username,
-            # 'last_seen': self.last_seen.isoformat() + 'Z',
+            'last_seen': self.last_seen.isoformat() + 'Z',
             'about_me': self.about_me,
             'post_count': self.posts.count(),
             'follower_count': self.followers.count(),
